@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>teste</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
-<body>
-      <?php
-            include 'header.php';
-      ?>
+<?php
+    include 'header.php';
+?>
 
         <section class="home" id="home">
 
@@ -224,7 +214,7 @@
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star-half-alt"></i>
                     </div>
-                    <button id="toggle" class="button-modoEscuro" onclick="toggleDarkMode()">🌑 ☀️</button>
+                    
                 </div>
         </div>
         </section>
@@ -297,7 +287,3 @@
         ?>
         
 
-
-    <script src="app.js"></script>
-</body>
-</html>

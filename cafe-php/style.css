@@ -678,7 +678,6 @@ section{
     flex-wrap: wrap;
     padding: 2rem 0;
     gap: 1rem;
-   
 }
 .footer .links:hover{
     border-radius: 8px;

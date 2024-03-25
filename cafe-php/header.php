@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Header</title>
+    <title>Cafe - PHP</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,10 +21,6 @@
                 <a href="#contact">contact</a>
                 <a href="#blogs">blogs</a>
             </nav>
-            
-
-
-
                 <div class="icons">
                     <div class="fas fa-search" id="search"></div>
                     <div class="fas fa-shopping-cart" id="cart-btn"></div>

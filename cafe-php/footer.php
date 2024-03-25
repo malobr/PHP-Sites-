@@ -29,6 +29,6 @@
         <div class="credit">create by <span>the wonderfoul ME!</span> | all rights reserved</div>
 
         </footer>
-    <script src="app.js"></script>
+        <script src="app.js"></script>
 </body>
 </html>
