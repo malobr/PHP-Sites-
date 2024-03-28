@@ -1,6 +1,4 @@
-
-    <link rel="stylesheet" href="style.css">
-        <footer class="footer">
+ <footer class="footer">
 
         <div class="share">
             <a href="#" class="fab fa-facebook"></a>
