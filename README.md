@@ -1,5 +1,18 @@
 # Projetos PHP - Café PHP
 
+
+## Diagramas | Links Uteis
+
+- [Diagrama Geral](https://app.diagrams.net/#G1axNRTB-xkuIIhCKLB24WdZhJDcG6g0Bz#%7B"pageId"%3A"uuTI5P6dtD2TRJg-KWoA"%7D)
+- [Diagrama de Classe](https://app.diagrams.net/#G1I_Tt4l3nnBn96Wq9XZUEwUC36MfBBKjQ#%7B"pageId"%3A"R2lEEEUBdFMjLlhIrx00"%7D)
+- [Casos de Uso](https://app.diagrams.net/#G1Je3ErN5EXMxnIs_pqtfyTt8at5hmG8WY#%7B"pageId"%3A"2YBvvXClWsGukQMiz)
+<br>
+
+
+
+
+
+
 Este repositório contém uma coleção de projetos em PHP, desenvolvidos com foco em diferentes domínios, como sites de café, viagens, organização de eventos e móveis. Cada projeto utiliza recursos do PHP, como includes, para gerenciar layouts e funcionalidades de maneira eficiente.
 
 ## Projetos
